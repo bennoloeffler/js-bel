@@ -1,0 +1,25 @@
+{
+  "name": "js-bel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennoloeffler/js-bel.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Benno Löffler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennoloeffler/js-bel/issues"
+  },
+  "homepage": "https://github.com/bennoloeffler/js-bel#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
